@@ -4,4 +4,4 @@ iface lo inet loopback
 
 auto eth0
 iface eth0 inet dhcp
-hwaddress ether 00:20:12:08:07:00
+#hwaddress ether 00:20:12:08:07:00
